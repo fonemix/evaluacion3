@@ -6,6 +6,7 @@
 
   <groupId>com.platinum</groupId>
   <artifactId>Evaluacion2IIparte</artifactId>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>Evaluacion2IIparte</name>
